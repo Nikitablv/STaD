@@ -1,0 +1,14 @@
+http://links.qatl.ru/../links/locked.php: 423 - Locked
+http://links.qatl.ru/../links/movedper.php: 301 - Moved
+http://links.qatl.ru/tel://1234567920: 403 - Forbidden
+http://links.qatl.ru/mailto:info@yoursite.com: 403 - Forbidden
+http://links.qatl.ru/../links/404not404found404.php: 404 - NotFound
+http://links.qatl.ru/../links/502gateaway502.php: 502 - BadGateway
+http://links.qatl.ru/../links/access401unauthorized.php: 401 - Unauthorized
+http://links.qatl.ru/../links/deny403forbidden.php: 403 - Forbidden
+http://links.qatl.ru/../links/found302.php: 302 - Redirect
+http://links.qatl.ru/../links/return500bad.php: 500 - InternalServerError
+http://links.qatl.ru/../links/teapot418.php: 500 - InternalServerError
+http://links.qatl.ru/../links/un503availible.php: 503 - ServiceUnavailable
+Links number: 12
+09.10.2022, 22:22:11

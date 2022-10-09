@@ -1,0 +1,12 @@
+http://links.qatl.ru/: 200 - OK
+http://links.qatl.ru/index.html: 200 - OK
+http://links.qatl.ru/about.html: 200 - OK
+http://links.qatl.ru/work.html: 200 - OK
+http://links.qatl.ru/pricing.html: 200 - OK
+http://links.qatl.ru/blog.html: 200 - OK
+http://links.qatl.ru/contact.html: 200 - OK
+http://links.qatl.ru/#: 200 - OK
+http://links.qatl.ru/blog-single.html: 200 - OK
+http://links.qatl.ru/../links/no204content.php: 204 - NoContent
+Links number: 10
+09.10.2022, 22:22:11
