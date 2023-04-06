@@ -141,7 +141,7 @@ namespace LW3Tests
         }
 
         [Test]
-        public void Remove_cure_to_pharmacy()
+        public void Remove_cure_to_pharmac()
         {
             // Arrange
             Cure cure = new Cure("Nurofen", 5, 100);
