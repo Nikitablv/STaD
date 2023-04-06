@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LW3", "LW3.csproj", "{9996DABD-9810-4157-9D9E-F8909DB27A8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LW3Tests", "..\LW3Tests\LW3Tests.csproj", "{1AD759AC-0D4C-459E-8F5D-CABD4600236B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9996DABD-9810-4157-9D9E-F8909DB27A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9996DABD-9810-4157-9D9E-F8909DB27A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9996DABD-9810-4157-9D9E-F8909DB27A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9996DABD-9810-4157-9D9E-F8909DB27A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD759AC-0D4C-459E-8F5D-CABD4600236B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD759AC-0D4C-459E-8F5D-CABD4600236B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD759AC-0D4C-459E-8F5D-CABD4600236B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD759AC-0D4C-459E-8F5D-CABD4600236B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC1AEC8-4817-4637-AF85-BA0659D6F097}
+	EndGlobalSection
+EndGlobal
