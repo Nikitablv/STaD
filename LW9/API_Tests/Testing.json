@@ -1,0 +1,86 @@
+{
+  "valid_item": {
+    "category_id": "1",
+    "title": "NikitaValidProduct",
+    "content": "content",
+    "price": "100",
+    "old_price": "1000",
+    "status": "0",
+    "keywords": "keywords",
+    "description": "description",
+    "hit": "1"
+  },
+
+  "invalid_item_1": {
+    "category_id": "16",
+    "title": "NikitaInvalidProduct",
+    "content": "content",
+    "price": "100",
+    "old_price": "1000",
+    "status": "1",
+    "keywords": "keywords",
+    "description": "description",
+    "hit": "1"
+  },
+
+  "invalid_item_2": {
+    "category_id": "1",
+    "title": "NikitaInvalidProduct",
+    "content": "content",
+    "price": "100",
+    "old_price": "1000",
+    "status": "1",
+    "keywords": "keywords",
+    "description": "description",
+    "hit": "2"
+  },
+
+  "invalid_item_3": {
+    "category_id": "1",
+    "title": "NikitaInvalidProduct",
+    "content": "content",
+    "price": "100",
+    "old_price": "1000",
+    "status": "2",
+    "keywords": "keywords",
+    "description": "description",
+    "hit": "1"
+  },
+
+  "edit_valid_item": {
+    "category_id": "1",
+    "title": "NikitaEditableProduct",
+    "content": "content",
+    "price": "200",
+    "old_price": "500",
+    "status": "1",
+    "keywords": "new_keywords",
+    "description": "new_description",
+    "hit": "1"
+  },
+
+  "edit_not_existing_item": {
+    "id": "99999",
+    "category_id": "1",
+    "title": "NikitaValidProduct",
+    "content": "content",
+    "price": "100",
+    "old_price": "1000",
+    "status": "1",
+    "keywords": "new_keywords",
+    "description": "new_description",
+    "hit": "1"
+  },
+
+  "edit_no_id_item": {
+    "category_id": "1",
+    "title": "NikitaValidProduct",
+    "content": "content",
+    "price": "100",
+    "old_price": "1000",
+    "status": "1",
+    "keywords": "new_keywords",
+    "description": "new_description",
+    "hit": "1"
+  }
+}
